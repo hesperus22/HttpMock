@@ -9,6 +9,7 @@ bin
 log-file.txt
 Bin
 *.cache
+**/bin-debug
 packages
 *.nupkg
 HttpMock.userprefs
